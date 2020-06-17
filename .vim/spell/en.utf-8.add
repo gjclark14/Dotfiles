@@ -1,0 +1,9 @@
+VUNDLE
+vundle
+colorscheme
+monokai
+foldmethod
+foldlevel
+cwd
+nerdtree
+NERDTreeChDirMode
