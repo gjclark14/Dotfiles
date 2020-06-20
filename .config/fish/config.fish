@@ -11,6 +11,10 @@ alias omfr='omf reload'
 alias t='trans =s es'
 alias g='git'
 alias gpom='git push origin master'
+alias grao='git remote add origin'
+
+# pacman config
+alias sps='sudo pacman -S'
 
 
 # Vim stuff
@@ -20,11 +24,11 @@ alias vish='vim $HOME/.config/fish/config.fish'
 
 #Directory stuff
 alias school='cd $HOME/School; ls -lh'
-alias conf='cd $HOME/.config; ls -lh'
+alias config='cd $HOME/.config; ls -lh'
 
 # export PATH
 alias prettyjson='python -m json.tool'
 #
 #
 #
-set -gx PATH \$PATH $HOME/.dotbare
+# set -gx PATH \$PATH $HOME/.dotbare
